@@ -1,0 +1,11 @@
+body{
+  background-color: white;
+}
+.custom-theme-button{
+  background-color: #6610f2;
+}
+textarea{
+  outline: none;
+  border: none;
+}
+
